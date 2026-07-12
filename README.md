@@ -40,6 +40,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🚀 Live Dashboard
+
+View the deployed Streamlit dashboard here:
+
+https://sales-dashboard-emfckt7ewgwn29aglzhjum.streamlit.app/
+
 ## Author
 
 Ankit Kumar
