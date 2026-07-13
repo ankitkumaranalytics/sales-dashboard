@@ -40,6 +40,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 📄 Project Presentation
+
+Download the PowerPoint presentation here:
+
+[📥 Sales Dashboard Presentation](presentation/Sales_Dashboard_Presentation.pptx)
+
 ## 🚀 Live Dashboard
 
 View the deployed Streamlit dashboard here:
